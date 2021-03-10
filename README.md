@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **soxich7@gmail.com**
 
-- 🌱 I’m currently learning **CNCF, Open stack**
+- ☁️ I’m currently learning **CNCF, Open stack**
 
 
 <h3 align="left">Languages and Tools:</h3>
