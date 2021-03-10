@@ -1,5 +1,5 @@
-<h1 align="center">Hello~, I'm euidong</h1>
-<h3 align="center">I love cloud architecture & web ecosystem</h3>
+<h1 align="center"> Hello~, I'm euidong </h1>
+<h3 align="center"> I love cloud architecture & web ecosystem 🌥 </h3>
 
 - 🔭 I’m study in **kyunghee univ.**
 
