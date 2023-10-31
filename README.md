@@ -5,7 +5,7 @@
 
 - ☁️ I’m currently learning **Cloud, Network, AI**
 
-- 📫 How to reach me **justiceong@postech.ac.kr**
+- 📫 How to reach me **justicedong@postech.ac.kr**
 
 - 📚 My Blog: **<https://euidong.github.io>**
 
