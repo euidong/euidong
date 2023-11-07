@@ -1,9 +1,9 @@
 <h1 align="center"> Hello~, I'm euidong </h1>
 <h3 align="center"> I love cloud architecture & web ecosystem 🌥 </h3>
 
-- 🔭 I’m study in **POSTECH**
+- 🔭 I’m studying at **POSTECH**
 
-- ☁️ I’m currently learning **Cloud, Network, AI**
+- ☁️ I’m learning **Cloud, Network, AI**
 
 - 📫 How to reach me **justicedong@postech.ac.kr**
 
